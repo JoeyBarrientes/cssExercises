@@ -1,0 +1,20 @@
+.oddNum,
+.coolerNum{
+    background-color: lightpink;
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+ }
+
+ .coolerNum{
+    font-size: 24px;
+ }
+
+ #secondNum{
+    color: blue;
+    font-size: 36px;
+ }
+
+ #fourthNum{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ }
